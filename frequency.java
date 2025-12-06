@@ -1,11 +1,10 @@
 public class frequency{
     public static void main(String[] args) {
         String str = "banana";
-        char[] as = str.toCharArray(); //
         char target = 'a';
         int count = 0;
-        for(int i =0;i<as.length;i++) {
-            if(as[i] == target){
+        for(int i =0;i<str.length();i++) {
+            if(str.charAt(i) == target){
                 count++;
             }
         }
