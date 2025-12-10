@@ -1,3 +1,4 @@
+package Revamp;
 import java.util.Scanner;
 
 class Person {

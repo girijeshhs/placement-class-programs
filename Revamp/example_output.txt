@@ -1,0 +1,2 @@
+Hello from FileWriterExample!
+This shows simple file writing in Java.
